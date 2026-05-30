@@ -88,12 +88,11 @@ class Vimalathithan:
 
 ---
 
-## 📊 Activity Graph
+## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMALATHITHAN&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMALATHITHAN&theme=minimal&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true&radius=6" width="100%"/>
 </div>
-
 ---
 
 ## 🏆 Trophy Wall
