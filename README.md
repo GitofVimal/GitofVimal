@@ -77,7 +77,7 @@ class Vimalathithan:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**Uber BI Dashboard**](https://github.com/VIMALATHITHAN) | Power BI · Excel · MySQL | Analyzed ride patterns & peak demand hours; interactive dashboards tracking total trips, revenue trends & ride frequency |
+| [**Uber BI Dashboard**](https://github.com/GitofVimal) | Power BI · Excel · MySQL | Analyzed ride patterns & peak demand hours; interactive dashboards tracking total trips, revenue trends & ride frequency |
 | [**Customer Segmentation K-Means**](https://github.com/VIMALATHITHAN) | Python · Pandas · NumPy · scikit-learn | Segmented **800 customers** into **5 behavioral groups**; **9 visualizations** (PCA, radar, heatmaps); automated marketing strategy generator |
 | [**Data Cleaner Pro**](https://github.com/VIMALATHITHAN) | Python · Pandas · NumPy · HTML · CSS · JS | Automated CSV/Excel preprocessing; reduced manual cleaning time by **60–80%**; auto date dimensions + data quality scoring with Excel audit reports |
 
