@@ -63,19 +63,6 @@ class Vimalathithan:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/VIMALATHITHAN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIMALATHITHAN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/VIMALATHITHAN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMALATHITHAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -83,11 +70,63 @@ class Vimalathithan:
 </div>
 
 ---
-## 📊 Activity Graph
+## 📊 Contribution Graph
+"use client";
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMALATHITHAN&theme=github&bg_color=ffffff&color=24292e&line=2ea44f&point=2ea44f&area=true&area_color=c6e48b&hide_border=true"/>
-</div>
+import {
+  ContributionGraph,
+  ContributionGraphBlock,
+  ContributionGraphCalendar,
+  ContributionGraphFooter,
+} from "@/components/kibo-ui/contribution-graph";
+import { eachDayOfInterval, endOfYear, formatISO, startOfYear } from "date-fns";
+import { cn } from "@/lib/utils";
+
+const maxCount = 20;
+const maxLevel = 4;
+const now = new Date();
+const days = eachDayOfInterval({
+  start: startOfYear(now),
+  end: endOfYear(now),
+});
+
+const data = days.map((date) => {
+  const c = Math.round(
+    Math.random() * maxCount - Math.random() * (0.8 * maxCount)
+  );
+  const count = Math.max(0, c);
+  const level = Math.ceil((count / maxCount) * maxLevel);
+
+  return {
+    date: formatISO(date, { representation: "date" }),
+    count,
+    level,
+  };
+});
+
+const Example = () => (
+  <ContributionGraph data={data}>
+    <ContributionGraphCalendar>
+      {({ activity, dayIndex, weekIndex }) => (
+        <ContributionGraphBlock
+          activity={activity}
+          className={cn(
+            'data-[level="0"]:fill-[#ebedf0] dark:data-[level="0"]:fill-[#161b22]',
+            'data-[level="1"]:fill-[#9be9a8] dark:data-[level="1"]:fill-[#0e4429]',
+            'data-[level="2"]:fill-[#40c463] dark:data-[level="2"]:fill-[#006d32]',
+            'data-[level="3"]:fill-[#30a14e] dark:data-[level="3"]:fill-[#26a641]',
+            'data-[level="4"]:fill-[#216e39] dark:data-[level="4"]:fill-[#39d353]'
+          )}
+          dayIndex={dayIndex}
+          weekIndex={weekIndex}
+        />
+      )}
+    </ContributionGraphCalendar>
+    <ContributionGraphFooter />
+  </ContributionGraph>
+);
+
+export default Example;
 
 ---
 
