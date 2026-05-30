@@ -1,4 +1,4 @@
-# GitofVimal
+## GitofVimal
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VIMALATHITHAN%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
@@ -8,7 +8,7 @@
    
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -37,23 +37,23 @@ class Vimalathithan:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📦 Frameworks & Libraries
+## Frameworks & Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 📊 BI & Visualization
+## BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🧰 Dev Tools
+## Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -63,7 +63,7 @@ class Vimalathithan:
 ![Google Opal](https://img.shields.io/badge/Google%20Opal-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
-## 🔥 Streak Stats
+## treak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VIMALATHITHAN&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
@@ -71,7 +71,7 @@ class Vimalathithan:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -85,7 +85,7 @@ class Vimalathithan:
 
 ---
 
-## 🎓 Education
+## Education
 
 <div align="center">
 
@@ -99,7 +99,7 @@ class Vimalathithan:
 
 ---
 
-## 🏅 Achievements & Certifications
+## Achievements & Certifications
 
 <div align="center">
 
@@ -115,7 +115,7 @@ class Vimalathithan:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ```
 📊 Business Intelligence → Google Looker Studio · DAX · Advanced Power BI
@@ -126,7 +126,7 @@ class Vimalathithan:
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
