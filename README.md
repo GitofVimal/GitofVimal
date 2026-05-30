@@ -87,18 +87,10 @@ class Vimalathithan:
 </div>
 
 ---
-
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMALATHITHAN&theme=minimal&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true&radius=6" width="100%"/>
-</div>
----
-
-## 🏆 Trophy Wall
+## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VIMALATHITHAN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIMALATHITHAN&theme=github&bg_color=ffffff&color=24292e&line=2ea44f&point=2ea44f&area=true&area_color=c6e48b&hide_border=true"/>
 </div>
 
 ---
