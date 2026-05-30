@@ -1,10 +1,11 @@
 # GitofVimal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VIMALATHITHAN%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VIMALATHITHAN%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vimalathithan+%F0%9F%91%8B;Data+Analyst+%7C+ML+Engineer;Power+BI+%7C+Python+%7C+SQL+Enthusiast;Building+Insights+From+Raw+Data+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Vimalathithan+%F0%9F%91%8B;Data+Analyst+%7C+Data
++Engineer;Power+BI+%7C+Python+%7C+SQL+Enthusiast;Building+Insights+From+Raw+Data+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 </div>
 
