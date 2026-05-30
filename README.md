@@ -120,7 +120,7 @@ class Vimalathithan:
 📊 Business Intelligence → Google Looker Studio · DAX · Advanced Power BI
 🤖 AI Automation         → n8n Workflows · Google Opal · Agentic Pipelines
 🎨 UI/UX Design          → Figma Systems · Wireframing · Prototyping
-🗄️  Databases             → Advanced SQL · Query Optimization · MySQL
+🗄️  Databases            → Advanced SQL · Query Optimization · MySQL
 ```
 
 ---
