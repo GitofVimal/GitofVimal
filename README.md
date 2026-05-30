@@ -1,6 +1,6 @@
 # GitofVimal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VIMALATHITHAN%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 </div>
@@ -62,7 +62,6 @@ class Vimalathithan:
 ![Google Opal](https://img.shields.io/badge/Google%20Opal-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -78,7 +77,7 @@ class Vimalathithan:
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | [**Uber BI Dashboard**](https://github.com/VIMALATHITHAN) | Power BI · Excel · MySQL | Analyzed ride patterns & peak demand hours; interactive dashboards tracking total trips, revenue trends & ride frequency |
-| [**Customer Segmentation — K-Means**](https://github.com/VIMALATHITHAN) | Python · Pandas · NumPy · scikit-learn | Segmented **800 customers** into **5 behavioral groups**; **9 visualizations** (PCA, radar, heatmaps); automated marketing strategy generator |
+| [**Customer Segmentation K-Means**](https://github.com/VIMALATHITHAN) | Python · Pandas · NumPy · scikit-learn | Segmented **800 customers** into **5 behavioral groups**; **9 visualizations** (PCA, radar, heatmaps); automated marketing strategy generator |
 | [**Data Cleaner Pro**](https://github.com/VIMALATHITHAN) | Python · Pandas · NumPy · HTML · CSS · JS | Automated CSV/Excel preprocessing; reduced manual cleaning time by **60–80%**; auto date dimensions + data quality scoring with Excel audit reports |
 
 </div>
@@ -132,8 +131,6 @@ class Vimalathithan:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalathithan-n)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vimalthithan.n@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=VIMALATHITHAN&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
