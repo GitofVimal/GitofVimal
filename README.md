@@ -89,12 +89,6 @@ class Vimalathithan:
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E. Computer Science & Engineering | Bannari Amman Institute of Technology | 2026 | 7.12 CGPA |
-| Diploma | N L Polytechnic | 2023 | 85% |
-| SSLC | S R T Universal | 2020 | 84% |
-
 </div>
 
 ---
