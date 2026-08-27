@@ -85,14 +85,6 @@ class Vimalathithan:
 
 ---
 
-## Education
-
-<div align="center">
-
-</div>
-
----
-
 ## Achievements & Certifications
 
 <div align="center">
